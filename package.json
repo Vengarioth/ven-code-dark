@@ -1,0 +1,25 @@
+{
+    "name": "ven-code-dark",
+    "displayName": "ven-code-dark",
+    "description": "ven's vscode theme",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.49.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "ven-code-dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/ven-code-dark-color-theme.json"
+            }
+        ]
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Vengarioth/ven-code-dark"
+    }
+}
