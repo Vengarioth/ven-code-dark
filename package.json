@@ -1,5 +1,7 @@
 {
     "name": "ven-code-dark",
+    "publisher": "Vengarioth",
+    "license": "MIT",
     "displayName": "ven-code-dark",
     "description": "ven's vscode theme",
     "version": "0.0.1",
