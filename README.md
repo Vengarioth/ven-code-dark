@@ -13,3 +13,9 @@ My personal vscode theme
 ## JavaScript (WIP)
 
 ![An image of markdown code with this theme](./js.png)
+
+## Building the extension file
+
+```
+vsce package --githubBranch main
+```
