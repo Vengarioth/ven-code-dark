@@ -19,7 +19,7 @@
 		"editor.lineHighlightBorder": "#242424",
 		"editor.rangeHighlightBackground": "#242424",
 		"editor.selectionBackground": "#3793e033",
-		"editor.selectionHighlightBackground": "#242424",
+		"editor.selectionHighlightBackground": "#444",
 		"editor.wordHighlightBackground": "#242424",
 		"editor.wordHighlightStrongBackground": "#242424",
 		"editorBracketMatch.background": "#242424",
@@ -37,7 +37,7 @@
 		"editorGutter.background": "#111115",
 		"editorHoverWidget.background": "#111115",
 		"editorHoverWidget.border": "#242424",
-		"editorIndentGuide.background": "#111115",
+		"editorIndentGuide.background": "#222222",
 		"editorLineNumber.activeForeground": "#e6e6e6",
 		"editorLineNumber.foreground": "#757575",
 		"editorLink.activeForeground": "#eeeeee",
@@ -48,7 +48,7 @@
 		"editorOverviewRuler.commonContentForeground": "#242424",
 		"editorOverviewRuler.currentContentForeground": "#e1270e",
 		"editorOverviewRuler.incomingContentForeground": "#5bc266",
-		"editorRuler.foreground": "#FFFFFF",
+		"editorRuler.foreground": "#353535",
 		"editorSuggestWidget.background": "#111115",
 		"editorSuggestWidget.border": "#242424",
 		"editorSuggestWidget.foreground": "#AAAAAA",
@@ -1928,7 +1928,7 @@
 		{
 			"scope": "variable",
 			"settings": {
-				"foreground": "#FC0377"
+				"foreground": "#EEEEEE"
 			}
 		},
 		{
@@ -1937,5 +1937,17 @@
 				"foreground": "#FC0377"
 			}
 		},
+		{
+			"scope": "variable.language.self.rust",
+			"settings": {
+				"foreground": "#FC0377",
+			}
+		},
+		{
+			"scope": "storage.modifier.mut.rust",
+			"settings": {
+				"foreground": "#FC0377",
+			}
+		}
 	]
 }
