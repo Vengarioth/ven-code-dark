@@ -1916,13 +1916,13 @@
 		{
 			"scope": "comment",
 			"settings": {
-				"foreground": "#277033"
+				"foreground": "#96eb8eb4"
 			}
 		},
 		{
 			"scope": "punctuation.definition.comment",
 			"settings": {
-				"foreground": "#277033"
+				"foreground": "#09ff32"
 			}
 		},
 		{
